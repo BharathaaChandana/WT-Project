@@ -1,0 +1,16 @@
+[
+ { 
+  "firstName":"Bharathaa",
+  "lastname":"Chandana",
+  "age": 23,
+  "marks": [{
+   "english":23
+   },
+   {
+   "math":28
+   }
+   },
+   "address":"hyd"
+ }
+]
+  
